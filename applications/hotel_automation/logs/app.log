@@ -1,0 +1,56 @@
+﻿2026-10-28 14:30:01 INFO Application started
+2026-10-28 14:30:03 WARNING Retry attempt 1
+2026-10-28 14:30:05 ERROR Database connection failed
+2026-10-28 14:30:06 ERROR Database connection failed
+2026-10-28 14:30:08 INFO Retry scheduled
+2026-10-28 15:51:23 INFO Hotel automation application started
+2026-10-28 15:51:23 INFO Guest Suresh checked into room 201
+2026-10-28 15:51:25 INFO Payment received for guest Priya
+2026-10-28 15:51:27 INFO Booking confirmed for guest Priya, room 201
+2026-10-28 15:51:29 WARNING Room 201 cleaning delayed; guest Kavya waiting
+2026-10-28 15:51:31 INFO Payment received for guest Priya
+2026-10-28 15:51:33 INFO Payment received for guest Ravi
+2026-10-28 15:51:35 INFO Guest Ravi checked into room 202
+2026-10-28 15:51:37 ERROR Payment gateway timeout for guest Kavya
+2026-10-28 15:51:39 WARNING Room 103 cleaning delayed; guest Anil waiting
+2026-10-28 15:51:41 ERROR Payment gateway timeout for guest Ravi
+2026-10-28 15:51:43 INFO Payment received for guest Suresh
+2026-10-28 15:51:45 INFO Booking confirmed for guest Suresh, room 101
+2026-10-28 15:51:47 WARNING Room 102 cleaning delayed; guest Priya waiting
+2026-10-28 15:51:49 ERROR Database connection failed while saving booking
+2026-10-28 15:51:51 INFO Booking confirmed for guest Kavya, room 102
+2026-10-28 15:51:53 INFO Guest Kavya checked into room 102
+2026-10-28 15:51:55 INFO Guest Priya checked into room 103
+2026-10-28 15:51:57 WARNING Room 102 cleaning delayed; guest Ravi waiting
+2026-10-28 15:51:59 ERROR Database connection failed while saving booking
+2026-10-28 15:52:01 ERROR Database connection failed while saving booking
+2026-10-28 15:52:03 ERROR Payment gateway timeout for guest Kavya
+2026-10-28 15:52:05 INFO Payment received for guest Ravi
+2026-10-28 15:52:07 INFO Booking confirmed for guest Anil, room 103
+2026-10-28 15:52:09 WARNING Room 103 cleaning delayed; guest Anil waiting
+2026-10-28 15:52:11 INFO Guest Suresh checked into room 103
+2026-10-28 15:52:13 INFO Booking confirmed for guest Anil, room 201
+2026-10-28 15:52:15 INFO Booking confirmed for guest Anil, room 103
+2026-10-28 15:52:17 INFO Booking confirmed for guest Kavya, room 201
+2026-10-28 15:52:19 INFO Payment received for guest Anil
+2026-10-28 15:52:21 INFO Guest Anil checked into room 101
+2026-10-28 15:52:23 INFO Guest Suresh checked into room 201
+2026-10-28 15:52:25 ERROR Payment gateway timeout for guest Anil
+2026-10-28 15:52:27 ERROR Database connection failed while saving booking
+2026-10-28 15:52:29 INFO Payment received for guest Suresh
+2026-10-28 15:52:31 INFO Payment received for guest Suresh
+2026-10-28 15:52:33 INFO Guest Kavya checked into room 202
+2026-10-28 15:52:35 WARNING Room 201 cleaning delayed; guest Ravi waiting
+2026-10-28 15:52:37 WARNING Room 103 cleaning delayed; guest Suresh waiting
+2026-10-28 15:52:39 ERROR Database connection failed while saving booking
+2026-10-28 15:52:41 ERROR Payment gateway timeout for guest Ravi
+2026-10-28 15:52:43 WARNING Room 201 cleaning delayed; guest Anil waiting
+2026-10-28 15:52:45 ERROR Payment gateway timeout for guest Anil
+2026-10-28 15:52:47 INFO Guest Anil checked into room 103
+2026-10-28 15:52:49 WARNING Room 102 cleaning delayed; guest Suresh waiting
+2026-10-28 15:52:51 INFO Payment received for guest Priya
+2026-10-28 15:52:53 ERROR Payment gateway timeout for guest Anil
+2026-10-28 15:52:55 INFO Booking confirmed for guest Ravi, room 202
+2026-10-28 15:52:57 ERROR Payment gateway timeout for guest Ravi
+2026-10-28 15:52:59 INFO Payment received for guest Ravi
+2026-10-28 15:53:01 INFO Hotel automation application stopped

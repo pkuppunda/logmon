@@ -1,0 +1,4 @@
+﻿2026-10-28 14:40:01 INFO CSV processing started
+2026-10-28 14:40:02 INFO Read 100 rows
+2026-10-28 14:40:03 WARNING Missing optional column: phone
+2026-10-28 14:40:04 ERROR Invalid date in row 17
