@@ -109,3 +109,17 @@ Run a specific test module:
 python -m pytest qa/test_reader.py -v
 ```
 
+## hotel_automation application and `qa_with_app`
+
+`applications/hotel_automation/` is a standalone application (standard library
+only) that simulates hotel operations, writes logs, and provides the log
+monitoring and incident-correlation interfaces exercised by `qa_with_app/`.
+Setup, configuration, and `HOTEL_AUTOMATION_*` environment variables are
+documented in `applications/hotel_automation/README.md`.
+
+Run the suite from the project root (the app is started and stopped
+automatically by the test fixtures):
+
+```bash
+python3 -m pytest -q -p no:cacheprovider qa_with_app
+```
